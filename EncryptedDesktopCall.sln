@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptedDesktopCall", "EncryptedDesktopCall.csproj", "{A6798B77-0868-4B79-94DD-AE7E33266C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6798B77-0868-4B79-94DD-AE7E33266C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6798B77-0868-4B79-94DD-AE7E33266C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6798B77-0868-4B79-94DD-AE7E33266C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6798B77-0868-4B79-94DD-AE7E33266C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BE359D-6D0E-4350-9B58-B69CB642D8AE}
+	EndGlobalSection
+EndGlobal
